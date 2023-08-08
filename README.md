@@ -18,7 +18,7 @@ BOM:
 - mss-22d18 power switches - 2 pcs
 - silicone rubber pad 1mm - 2 pcs
 
-[build process](https://t.me/kpukboard)
+[build process (telegram channel)](https://t.me/kpukboard)
 
 ![left](https://user-images.githubusercontent.com/6429161/231666564-cddbdab5-2c3d-482d-b7ed-5e063b042b53.jpg)
 ![right](https://user-images.githubusercontent.com/6429161/231666559-80edaf40-a7c9-4a9f-ab76-4f71216d7ee6.jpg)
